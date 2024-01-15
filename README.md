@@ -1,5 +1,5 @@
 # Video Streaming Service Customer Segmentation and Churn Predictions
-leveraging data science techniques to identify key factors influencing customer behavior and retention
+leveraging data science techniques to identify key factors influencing Netflix customer behavior and retention
 
 # Project Overview
 This project applies data science techniques to analyze customer churn and segmentation in the context of a video streaming service. Using the comprehensive dataset from Netflix, we aim to identify key factors driving customer churn and group customers into meaningful segments.
