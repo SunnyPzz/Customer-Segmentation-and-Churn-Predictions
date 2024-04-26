@@ -1,5 +1,5 @@
-# Telecom Customer Segmentation and Churn Predictions
-This project applies data science techniques to analyze customer churn and segmentation within a telecom service context. Utilizing a comprehensive dataset, the project aims to identify key factors driving customer churn and to group customers into meaningful segments.
+# Customer Segmentation and Churn Predictions
+This project applies data science techniques to analyze customer churn and segmentation within a video streaming service context. Utilizing a comprehensive dataset, the project aims to identify key factors driving customer churn and to group customers into meaningful segments.
 
 # Data Description
 The dataset contains various customer attributes:
